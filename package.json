@@ -1,0 +1,19 @@
+{
+  "name": "drubbit",
+  "version": "1.0.0",
+  "description": "Drubbit challenge nodeJS + Express + Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savg92/drubbit.git"
+  },
+  "author": "SAVG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savg92/drubbit/issues"
+  },
+  "homepage": "https://github.com/savg92/drubbit#readme"
+}
